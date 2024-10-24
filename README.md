@@ -24,17 +24,17 @@ Visualization: Visual representations of Mel spectrograms and alignments for a b
 **Training Process**: The initialisetraining.py file initiates the training process for the Tacotron2 model using the prepared dataset.
 
 # 4. File Descriptions
-**trainingtacotron2.py**: Entry point of the project. It mounts Google Drive and downloads necessary dependencies.
+**1. trainingtacotron2.py**: Entry point of the project. It mounts Google Drive and downloads necessary dependencies.
 
-**loadingdataset.py**: Contains functions for loading and processing the dataset used for training the models.
+**2. loadingdataset.py**: Contains functions for loading and processing the dataset used for training the models.
 
-**uploadtranscript.py**: Manages transcription files necessary for training and evaluation.
+**3. uploadtranscript.py**: Manages transcription files necessary for training and evaluation.
 
-**modelparameters.py**: Defines and manages the model parameters for Tacotron2 and HiFi-GAN.
+**4. modelparameters.py**: Defines and manages the model parameters for Tacotron2 and HiFi-GAN.
 
-**initialisetraining.py**: Responsible for starting the training process of the Tacotron2 model.
+**5. initialisetraining.py**: Responsible for starting the training process of the Tacotron2 model.
 
-**hifiganaudiooutput.py**: Handles audio synthesis and output generation using the HiFi-GAN model.
+**6. hifiganaudiooutput.py**: Handles audio synthesis and output generation using the HiFi-GAN model.
 
 5. Installation Instructions
 To set up the project locally, follow these steps:
