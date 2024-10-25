@@ -36,7 +36,7 @@ Visualization: Visual representations of Mel spectrograms and alignments for a b
 
 **6. hifiganaudiooutput.py**: Handles audio synthesis and output generation using the HiFi-GAN model.
 
-5. Installation Instructions
+# 5. Installation Instructions
 To set up the project locally, follow these steps:
 
 1. Clone this repository:
